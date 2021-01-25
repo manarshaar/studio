@@ -22,3 +22,33 @@
 .content{
     padding: 7%
 }
+.buttons{
+    display: flex;
+    justify-content: center;
+}
+
+.b{
+    width: 180px;
+    height: 65px;
+    left: 394px;
+    top: 1620px;
+    
+    background: #CCAF40;
+    border-radius: 56px;
+    border-color: #CCAF40;
+    border-style: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+.b2{
+    margin-left: 30px;
+    width: 250px;
+    background: white;
+    border-width: 2px;
+    border-style: solid;
+    color: #CCAF40;
+
+
+}

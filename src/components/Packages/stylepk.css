@@ -1,0 +1,34 @@
+.packages{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 18%;
+    margin-left: 18%;
+}
+.card{
+    border: solid 1px rgb(143, 135, 135);
+    width: 220px;
+    height: 240px;
+    left: 242px;
+    top: 1006px;
+    padding-top: 4%;
+
+}
+.card div{
+    text-align: center;
+}
+
+.button{
+    margin-left: 66px;
+    width: 80px;
+    height: 40px;
+    left: 394px;
+    top: 1620px;
+    
+    background: #CCAF40;
+    border-radius: 2px;
+    border-color: #CCAF40;
+    border-style: none;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
