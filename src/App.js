@@ -1,11 +1,11 @@
 import React from "react";
 import "./App.css";
-import Register from "./pages/Register";
-
+import Booking from "./pages/Booking";
+//todo add router
 export default function App() {
   return (
     <div className="all">
-      <Register></Register>
+      <Booking></Booking>
     </div>
   );
 }

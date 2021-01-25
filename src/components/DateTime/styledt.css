@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+.dateTime{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    width: 280px;
+    height: 45px;
+    left: 178px;
+    top: 787px;
+    border: 1px solid #CCAF40;
+    box-sizing: border-box;
+}

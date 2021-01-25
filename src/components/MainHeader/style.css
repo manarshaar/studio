@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+.mainHead{
+    display: flex;
+    flex-direction: row;
+    background-color: #242424; 
+}
+.pages {
+    display: flex;
+    align-items: center;
+
+}
+.img{
+    padding: 7px 42% 7px 5%;
+}
+
+.pages div{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+    padding-right: 50%;
+}
+
