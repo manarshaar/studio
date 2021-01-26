@@ -31,8 +31,7 @@ export default function Packages() {
           3 hour shoot<br></br>Unlimited photos<br></br>Editing included
           <br></br>Free photobook
         </div>
-        <br></br>
-        <button className="button">Select</button>
+        <button className="button lastB">Select</button>
       </div>
     </div>
   );

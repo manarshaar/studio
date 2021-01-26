@@ -1,6 +1,7 @@
 import React from "react";
 import "./style.css";
 import logo from "./../../assets/logo.png";
+import { BrowserRouter as Router, Switch, Route, Link } from "react-router-dom";
 
 export default function MainHeader() {
   return (
@@ -10,10 +11,18 @@ export default function MainHeader() {
         <img src={logo} alt="Logo" />
       </div>
       <div className="pages">
-        <div>Home</div>
-        <div>Book</div>
-        <div>Contact</div>
-        <div>About</div>
+        <Link to="/Home" className="links">
+          Home
+        </Link>
+        <Link to="/" className="links">
+          Book
+        </Link>
+        <Link to="/Contact" className="links">
+          Contact
+        </Link>
+        <Link to="/About" className="links">
+          About
+        </Link>
       </div>
     </div>
   );

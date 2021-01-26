@@ -13,11 +13,17 @@
     padding: 7px 42% 7px 5%;
 }
 
-.pages div{
+.links{
+    text-decoration: none;
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     font-weight: 600;
     color: white;
     padding-right: 50%;
+}
+
+.clicked{
+    color:  #CCAF40;
+
 }
 
