@@ -2,7 +2,7 @@
   "name": "counter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://manarshaar.github.io/counter_react",
+  "homepage": "https://manarshaar.github.io/studio",
   "dependencies": {
     "@date-io/date-fns": "^1.3.13",
     "@fortawesome/fontawesome-svg-core": "^1.2.32",

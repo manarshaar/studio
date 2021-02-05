@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
+
+.body{
+    padding: 110px 90px 40px 100px;
+    display: flex;
+    flex-direction: row;
+    background-color: #242424;
+}
+
+.bigLogo{
+    width: 14%;
+    padding-right: 24%;
+}
+
+.paragraph{
+    color: white;
+    font-size: 22px;
+    width: 50%;
+}
+
+.contact{
+    color:  #CCAF40;
+    text-decoration: none;
+}
